@@ -31,6 +31,11 @@ img {
     width: 100%;
 }
 
+h3 {
+    font-size: 26px;
+    font-weight: 300;
+}
+
 h4 {
     color: #00ed82;
     font-size: 13px;
@@ -61,6 +66,14 @@ h4 {
     font-size: 10px;
     color: #ccc;
     margin-top: 20px;
+}
+
+.sub-link {
+    display: block;
+    color: #ccc;
+    font-size: 12px;
+    margin-top: 5px;
+    text-decoration: underline;
 }
 
 /* Header */
