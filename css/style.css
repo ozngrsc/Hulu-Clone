@@ -107,3 +107,29 @@ header nav {
     font-size: 18px;
     margin: 25px 0;
 }
+
+
+/* Sub Header */
+.sub-header {
+    display: grid;
+    grid-template-columns: 2fr 4fr 2fr;
+    gap: 40px;
+    align-items: center;
+    padding: 30px 40px;
+    background: linear-gradient(318.68deg, #0f495c 0%, #0d3640 49.72%, #08141f 100%, #08141f 100%);
+}
+
+
+
+/* Media Queries */
+
+@media(max-width: 768px) {
+    .header .logo {
+        width: 200px;
+    }
+
+    .header .header-content {
+        text-align: center;
+        padding: 0 20px;
+    }
+}
