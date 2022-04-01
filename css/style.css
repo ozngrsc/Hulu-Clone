@@ -210,6 +210,92 @@ header nav {
     margin-top: 40px;
 }
 
+
+.cover-1 {
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+
+}
+
+.cover-1:hover {
+    z-index:1;
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);  
+    -moz-transform: scale(0.5);
+    transform: scale(1.09);
+
+}
+
+.cover-2 {
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+
+}
+
+.cover-2:hover {
+    z-index:1;
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);  
+    -moz-transform: scale(0.5);
+    transform: scale(1.09);
+
+}
+
+.cover-3 {
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+
+}
+
+.cover-3:hover {
+    z-index:1;
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);  
+    -moz-transform: scale(0.5);
+    transform: scale(1.09);
+
+}
+
+.cover-4 {
+    position: relative;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+
+}
+
+.cover-4:hover {
+    z-index:1;
+    -webkit-transform: scale(0.5);
+    -ms-transform: scale(0.5);  
+    -moz-transform: scale(0.5);
+    transform: scale(1.09);
+
+}
+
+
 .categories .covers > div {
     height: 500px;
     width: 300px;
